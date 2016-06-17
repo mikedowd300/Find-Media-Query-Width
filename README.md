@@ -1,2 +1,2 @@
 # Find-Media-Query-Width
-This will be a simple JS plugin that provides the current window width as the window is resized.
+This is a JS/Jquery plugin that displays the width of a specific element of your choosing, as well as the entire window width, as a window is resized.
