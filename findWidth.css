@@ -1,5 +1,20 @@
 #window-width {
-	position: relative;
+	position: fixed;
 	left: 0;
-	right 0;	
+	right: 0;	
+	width: 95px;
+	background-color: black;
+	color: white;
+	font-size: 10px;
+	visibility: hidden;
+	line-height: 2px;	
+	margin: 0;
+}
+
+#tester {
+	border: 1px solid red;
+	width: 30%;
+	height: 100px;
+	margin: 0 0  0 34px;	
+	padding: 50px;
 }
